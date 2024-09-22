@@ -25,5 +25,6 @@ add_executable(HELLOAPP ${SRC_FILES})
 target_include_directories(HELLOAPP PUBLIC include/ lib/)
 target_link_libraries(HELLOAPP PUBLIC wifi_lib)
 
+#Add comment dummy just to triger jenkins
 
 
