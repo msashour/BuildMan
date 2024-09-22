@@ -1,0 +1,8 @@
+/Users/mohammeddabdelnaby/Desktop/trial/build/CMakeFiles/HELLOAPP.dir
+/Users/mohammeddabdelnaby/Desktop/trial/build/CMakeFiles/edit_cache.dir
+/Users/mohammeddabdelnaby/Desktop/trial/build/CMakeFiles/rebuild_cache.dir
+/Users/mohammeddabdelnaby/Desktop/trial/build/include/CMakeFiles/edit_cache.dir
+/Users/mohammeddabdelnaby/Desktop/trial/build/include/CMakeFiles/rebuild_cache.dir
+/Users/mohammeddabdelnaby/Desktop/trial/build/lib/CMakeFiles/wifi_lib.dir
+/Users/mohammeddabdelnaby/Desktop/trial/build/lib/CMakeFiles/edit_cache.dir
+/Users/mohammeddabdelnaby/Desktop/trial/build/lib/CMakeFiles/rebuild_cache.dir
